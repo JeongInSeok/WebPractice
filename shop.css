@@ -1,0 +1,19 @@
+/* 아래에 코드를 작성하시오. */
+.snsiconsize {
+  width: 40px;
+  height: 40px;
+}
+.budsize {
+  width: 150px;
+  height: 150px;
+}
+@media (max-width:768px) {
+
+}
+
+@media all and (min-width:768px) and (max-width:992px){
+
+}
+@media (min-width:992px){
+
+}
